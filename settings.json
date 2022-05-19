@@ -1,0 +1,8 @@
+{
+    "name": "ping",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true
+    }
+}
